@@ -10,3 +10,11 @@ openid
 signup
 csrf
 headimgurl
+qrcode
+qiniu
+beanstalkd
+webroot
+imgurl
+JSAPI
+Yii
+figureurl
